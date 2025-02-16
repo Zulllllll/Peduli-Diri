@@ -9,9 +9,9 @@ Aplikasi PeduliDiri Web adalah sebuah aplikasi berbasis web yang bertujuan untuk
 
 | Profile | Keterangan  |
 |---------|--------------|
-| Nama    | Muhammad Zulfati |
+| Nama    | MUHAMAD ZULFATI |
 | Sekolah | SMK PRESTASI PRIMA |
-| Jurusan | Pemograman Perangkat Lunak dan Gim |
+| Jurusan | PEMOGRAMAN PERANGKAT LUNAK & GIM | |
 
  
 ## Ringkasan
