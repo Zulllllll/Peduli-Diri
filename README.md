@@ -9,9 +9,9 @@ Aplikasi PeduliDiri Web adalah sebuah aplikasi berbasis web yang bertujuan untuk
 
 | Profile | Keterangan  |
 |---------|--------------|
-| Nama    | MUHAMAD RIFQI ASHARI |
+| Nama    | Muhammad Zulfati |
 | Sekolah | SMK PRESTASI PRIMA |
-| Jurusan | REKAYASA PERANGKAT LUNAK |
+| Jurusan | Pemograman Perangkat Lunak dan Gim |
 
  
 ## Ringkasan

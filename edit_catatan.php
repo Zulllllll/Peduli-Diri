@@ -178,7 +178,8 @@ if (isset($_POST['simpan'])) {
 
             <!-- akhir isi kontent -->
 
-            <footer class="footer"> © 2024 Muhammad Zulfati <a href=""></a>
+            <footer class="footer">
+                 © 2025 Muhammad Zulfati <a href=""></a>
             </footer>
 
         </div>
